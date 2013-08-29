@@ -1,0 +1,8 @@
+name = Node Automatic Field Table of Contents
+description = Adds automatic content type field anchors and a panels TOC pane.
+core = 7.x
+files[] = node_aut_fieldtoc.module
+dependencies[] = ctools
+dependencies[] = panels
+dependencies[] = node
+dependencies[] = field
