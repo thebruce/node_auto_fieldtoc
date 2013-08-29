@@ -7,7 +7,7 @@ A drupal module for adding a content types fields to a TOC pane.
 
 This module adds in-page anchors to your content types for all of the fields visible in a given view mode.
 
-You can then use the supplied content pane in a panels page with a node context to provide a TOC style link list to those anchors.
+You can then use the supplied content pane in a panels page with a node context of an Node Auto field TOC enabled content type to provide a TOC style link list to those anchors.
 
 ##Installation
 
